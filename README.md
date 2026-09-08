@@ -1,4 +1,4 @@
-# Welcome to ○팀
+# Welcome to E26-AI01-20
 
 ## 🎯 팀 슬로건
 
